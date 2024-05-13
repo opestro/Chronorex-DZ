@@ -1,6 +1,6 @@
 <template>
-  <div class="grid justify-center text-center gap-2 ">
-    <div class="my-16">
+  <div class="grid justify-center text-center gap-2 max-w-[95%]  ">
+    <div class="my-16 ">
       <span class=" flex justify-center gap-1">
         <h1 class="text-4xl font-bold">Seamless Delivery Journey</h1>
         <Icon name="icon-park-outline:journey" class="w-8 h-8  text-secondary   "/>

@@ -34,7 +34,7 @@
             </div>
             <img
               src="/public/hero-section.png"
-              class=" max-sm:max-w-lg sm:max-w-xl md:max-w-2xl lg:max-w-4xl rounded-lg"
+              class=" max-sm:max-w-[100%] sm:max-w-xl md:max-w-2xl lg:max-w-4xl rounded-lg"
             />
             
           </div>
