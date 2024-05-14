@@ -1,6 +1,6 @@
 <template>
   <div data-theme="chronorexDefault">
-    <div class="max-sm:mx-[0%] sm:mx-[2%] md:mx-[5%] lg:mx-[10%]">
+    <div class="max-sm:mx-[2%] sm:mx-[2%] md:mx-[5%] lg:mx-[10%]">
       <NuxtPage :sectionSelected="selectedSection" />
       <Footer></Footer>
     </div>

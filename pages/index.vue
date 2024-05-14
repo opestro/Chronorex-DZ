@@ -9,13 +9,13 @@
         }
       "
     ></NavBar>
-    <div class="mx-[10%]">
-      <Hero id="" class="my-5"></Hero>
-      <partners id="Partners" class="my-5"></partners>
+    <div class=" ">
+      <Hero id="" class=""></Hero>
+      <partners id="Partners" class=""></partners>
       <services id="Services"></services>
-      <delivery-steps id="Delivery Journey" class="my-5"></delivery-steps>
+      <delivery-steps id="Delivery Journey" class=""></delivery-steps>
       <dz-label id="Coverage"></dz-label>
-      <cgl id="" class="my-5"></cgl>
+      <cgl id="" class=""></cgl>
     </div>
   </div>
 </template>

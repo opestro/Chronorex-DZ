@@ -1,9 +1,9 @@
 <template>
-  <div class="grid justify-center text-center gap-2 max-w-[95%]  ">
+  <div class="grid justify-center text-center gap-2   ">
     <div class="my-16 ">
       <span class=" flex justify-center gap-1">
-        <h1 class="text-4xl font-bold">Seamless Delivery Journey</h1>
-        <Icon name="icon-park-outline:journey" class="w-8 h-8  text-secondary   "/>
+        <h1 class="text-4xl font-bold">Seamless Delivery Journey  <Icon name="icon-park-outline:journey" class="w-8 h-8  text-secondary   "/></h1>
+       
       </span>
  
       <p>From Pick-Up to Payment</p>
@@ -12,7 +12,7 @@
     <ul class="timeline timeline-vertical">
       <li>
         <div class="timeline-start timeline-box text-start">
-          <span class=" flex  items-end gap-2  justify-start align-middle   ">
+          <span class="max-sm:grid flex  items-end gap-2  justify-start align-middle   ">
             <Icon name="twemoji:pickup-truck" class="w-10 h-10"/>
             <h1 class="font-semibold uppercase ">Pick-Up Request : </h1>
           </span>
@@ -56,7 +56,7 @@
           </svg>
         </div>
         <div class="timeline-end timeline-box text-start">
-          <span class=" flex  items-center gap-2  justify-start align-middle   ">
+          <span class="max-sm:grid flex  items-center gap-2  justify-start align-middle   ">
             <Icon name="twemoji:shuffle-tracks-button" class="w-8 h-8"/>
             <h1 class="font-semibold uppercase ">Transit & Tracking : </h1>
           </span>
@@ -73,7 +73,7 @@
         <hr class="bg-secondary  " />
         
         <div class="timeline-start timeline-box text-start">
-          <span class=" flex  items-center gap-2  justify-start align-middle   ">
+          <span class="max-sm:grid flex  items-center gap-2  justify-start align-middle   ">
             <Icon name="twemoji:delivery-truck" class="w-8 h-8"/>
             <h1 class="font-semibold uppercase ">Delivery : </h1>
           </span>
@@ -116,7 +116,7 @@
           </svg>
         </div>
         <div class="timeline-end timeline-box text-start  ">
-          <span class=" flex  items-center gap-2  justify-start align-middle   ">
+          <span class=" max-sm:grid  flex  items-center gap-2  justify-start align-middle   ">
             <Icon name="fluent:payment-48-filled" class="w-8 h-8  text-primary "/>
             <h1 class="font-semibold uppercase text-primary ">Payment & Confirmation:</h1>
           </span>
